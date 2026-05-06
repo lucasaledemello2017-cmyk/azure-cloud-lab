@@ -81,25 +81,25 @@ Durante o laboratório foram realizados testes utilizando os recursos de monitor
 
 ## Resource Groups
 
-![Resource Groups](images/resource-groups.png)
+![Resource Groups](images/Resource_Groups.png)
 
 ---
 
 ## Virtual Machine em execução
 
-![Virtual Machine](images/vm.png)
+![Virtual Machine](images/Create_VM.png)
 
 ---
 
 ## Cost Alerts
 
-![Cost Alerts](images/alerts.png)
+![Cost Alerts](images/Alerts.png)
 
 ---
 
 ## Acesso remoto via RDP
 
-![RDP](images/rdp.png)
+![RDP](images/VM_ON.png)
 
 ---
 
